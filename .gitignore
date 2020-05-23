@@ -1,3 +1,9 @@
 *.log
 target/
 src/test
+.idea/
+.mvn/
+lib/
+public/
+web/
+
